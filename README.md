@@ -126,3 +126,10 @@ npm run build
 ## 📄 Lisensi
 
 Proyek ini dirilis di bawah lisensi [MIT License](LICENSE).
+
+---
+
+<p align="center">
+  <b>Created by parkphikri</b>
+</p>
+

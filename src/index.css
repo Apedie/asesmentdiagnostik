@@ -334,3 +334,15 @@ table.data a { color: var(--hijau); font-weight: 700; text-decoration: none; }
   .tpp-character { font-size: 2.5rem; }
 }
 
+.global-footer {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--teks-lembut);
+  opacity: 0.65;
+  padding: 20px 0 30px;
+  font-family: inherit;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+

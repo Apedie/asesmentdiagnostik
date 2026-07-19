@@ -39,6 +39,10 @@ export default function App() {
 
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
+      <footer className="global-footer">
+        Created by parkphikri
+      </footer>
     </div>
   )
 }
+
